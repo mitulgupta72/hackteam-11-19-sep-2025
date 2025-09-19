@@ -1,0 +1,13 @@
+Regulatory Extract – Sample Document 4
+
+Clause 10 – Data Protection
+- Personal data must be encrypted at rest and in transit.
+- Consent must be recorded for all data subjects.
+
+Clause 15 – Record Keeping
+- Records must be retained for a minimum of 7 years.
+- Audit logs must be reviewed quarterly for anomalies.
+
+Clause 20 – Reporting Obligations
+- All incidents of non-compliance must be reported within 72 hours.
+- Senior management must be informed of all material deficiencies.
